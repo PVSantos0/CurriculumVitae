@@ -1,0 +1,19 @@
+html,body,h1,h2,h3,h4,h5,h6 {
+	font-family: "Roboto", sans-serif
+}
+
+footer a:hover{
+	opacity: 0.5;
+	color: #c7c7c7;
+}
+
+.avatar{
+	padding: 5px;
+	border-radius: 50%;
+}
+
+.font{
+	color: #009688;
+	font-family: 'Lobster', cursive;
+	text-shadow:  -1px 1px 10px #000000;
+}
